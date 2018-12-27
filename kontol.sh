@@ -304,7 +304,7 @@ echo $indigo
 
 date
 
-echo $purple"___________________________________________________"
+echo $red"___________________________________________________"
 
 echo $cyan" ["$red"+"$cyan"]Author by	: Tuan  Swam "
 
@@ -314,7 +314,7 @@ echo $cyan" ["$red"+"$cyan"]Team : KiLLeR Cyber Team		"
 
 echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/tuanswam404"
 
-echo $purple"___________________________________________________"
+echo $white"___________________________________________________"
 
 echo $cyan" 1) install Bokep by Tuan_Swam"
 
@@ -336,7 +336,7 @@ echo $purple" 9) install DarkFly-Tool"
 
 echo $yellow" 10) install tools MR.TR3V!0N"
 
-echo $blue"   11) biodata Tuan_Swam"
+echo $blue" 11) biodata Tuan_Swam"
 
 echo $red" 0) Exit "
 
