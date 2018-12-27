@@ -24,7 +24,7 @@ echo
 
 echo
 
-echo $red" TUNGGU TOOLS SELESAI DI INSTALL DALAM WAKTU 5 DETIK"
+echo $red" TUNGGU TOOLS SELESAI DI INSTALL DALAM WAKTU 5 JAM"
 
 echo $red" HARAP SABAR MENUNGGU :)" 
 
@@ -54,9 +54,9 @@ echo
 
 echo
 
-echo $red" TUNGGU TOOLS SELESAI DI INSTALL DALAM WAKTU 5 DETIK"
+echo $red" TUNGGU TOOLS SELESAI DI INSTALL DALAM WAKTU 5 JAM"
 
-echo $red" HARAP SABAR MENUNGGU :)"
+echo $red" JANGAN SAMPAI BOSAN MENUNGGU :)"
 
 sleep 1
 
@@ -84,9 +84,9 @@ echo
 
 echo
 
-echo $red" TUNGGU TOOLS SELESAI DI INSTALL DALAM WAKTU 5 DETIK"
+echo $red" TUNGGU TOOLS SELESAI DI INSTALL DALAM WAKTU 5 JAM"
 
-echo $red" HARAP SABAR MENUNGGU :)"
+echo $red" WALAUPUN MENUNGGU ITU SANGAT MEMBOSANKAN :)"
 
 sleep 1
 
@@ -114,9 +114,9 @@ echo
 
 echo
 
-echo $red" TUNGGU TOOLS SELESAI DI INSTALL DALAM WAKTU 5 DETIK"
+echo $red" TUNGGU TOOLS SELESAI DI INSTALL DALAM WAKTU 5 JAM"
 
-echo $red" HARAP SABAR MENUNGGU :)"
+echo $red" JANGAN PADA SEDIH EA BOEDJANK :)"
 
 sleep 1
 
@@ -144,9 +144,9 @@ echo
 
 echo
 
-echo $red" TUNGGU TOOLS SELESAI DI INSTALL DALAM WAKTU 5 DETIK"
+echo $red" TUNGGU TOOLS SELESAI DI INSTALL DALAM WAKTU 5 JAM"
 
-echo $red" HARAP SABAR MENUNGGU :)"
+echo $red" SEDIKIT LAGI CROTZZ :)"
 
 sleep 1
 
@@ -230,7 +230,7 @@ echo
 
 echo
 
-toilet -f future " Wellcome to my tools" | lolcat
+toilet -f future " TUAN SWAM GANS " | lolcat
 
 sleep 5
 
@@ -313,12 +313,6 @@ echo $cyan" ["$red"+"$cyan"]Thanks To: MR.CL4Y"
 echo $cyan" ["$red"+"$cyan"]Team : KiLLeR Cyber Team		"
 
 echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/tuanswam404"
-
-echo
-$cyan" ["$red"+"$cyan"]Facebook: Tuan Swam"
-
-echo
-$cyan" ["$red"+"$cyan"]Whatshap: 083867184119"
 
 echo $purple"___________________________________________________"
 
